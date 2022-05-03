@@ -14,7 +14,7 @@ Mac/Linus:
 `source env/bin/activate`
 
 Windows:
-`env/Scripts/activate`
+`env/Scripts/activate.bat`
 
 #### 3.Installation des modules:
 
